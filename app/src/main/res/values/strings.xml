@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="rewards">Rewards</string>
+    <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus imperdiet odio ac viverra. Duis nibh nisi, aliquam in tortor sed, elementum tincidunt odio. In eu mauris eget mi feugiat scelerisque et nec dui. Curabitur finibus egestas posuere. Pellentesque et metus in libero pellentesque dapibus. Suspendisse a magna porttitor, feugiat risus eu, fringilla lacus. Donec varius est id lacinia iaculis. Quisque tempus commodo quam, et sodales lectus convallis non. Nulla maximus metus enim, vitae vehicula augue tristique sed. Donec ac orci at tortor mollis cursus. Aenean hendrerit, urna consequat vulputate fermentum, libero nulla aliquet sem, a tempor augue odio eu ipsum. Maecenas rhoncus venenatis sapien at feugiat. Donec nec feugiat ex. Quisque sit amet massa feugiat, porta lorem finibus, finibus erat. Maecenas justo purus, sodales sed aliquet sed, tempor vel dui.
+
+        Nunc nec risus ut nisl faucibus iaculis. Proin imperdiet gravida felis vitae consequat. Aenean in ultrices sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi ante ligula, faucibus sit amet ultricies sit amet, aliquam nec ante. Integer ullamcorper tincidunt justo, id ornare nulla dignissim vitae. Sed sodales nibh vitae nisl consequat, eget blandit ex accumsan.
+
+        Fusce nec rutrum mi. Duis hendrerit turpis vel lorem viverra, vitae scelerisque ex iaculis. Duis a ligula lectus. Ut magna elit, facilisis id magna ac, finibus faucibus dui. In finibus nunc id rutrum consectetur. Nunc vitae euismod velit, quis aliquet ligula. Sed feugiat, libero at ullamcorper accumsan, mauris nisi mattis purus, at tempus lacus justo nec nisi. Sed mollis sem nunc, vitae commodo sapien rhoncus nec. Sed ultricies porta risus quis imperdiet.
+
+        Sed hendrerit felis enim, non aliquet magna egestas eget. Nullam iaculis ipsum ac mauris lobortis, eget ornare ex ultrices. Donec eget lacus egestas, sollicitudin magna sit amet, vulputate ex. Etiam ut pretium felis. Sed volutpat vehicula elit in tristique. Morbi posuere feugiat lacinia. Sed rhoncus justo sit amet felis vulputate mattis. Morbi vulputate risus vel lorem blandit volutpat.
+
+        Quisque venenatis tristique est, eu dignissim est mollis quis. Quisque et turpis eu erat consequat laoreet eget ut nulla. Ut id velit ac est vulputate hendrerit. Curabitur varius ligula nec nulla euismod rutrum. Praesent quis blandit leo. Nullam eleifend velit et bibendum rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas posuere rhoncus volutpat. Praesent fermentum magna ligula, scelerisque ultricies ipsum mollis sed. Nam rutrum iaculis urna, dictum tincidunt felis pretium et. Duis ut mi ut ex dictum dignissim id at libero.
+
+        Vestibulum hendrerit sem non vulputate mattis. Maecenas sit amet odio vitae metus venenatis mollis sed in mauris. Suspendisse aliquet justo eget odio dapibus eleifend. Curabitur a dignissim libero. Donec aliquet tortor risus, eget elementum turpis euismod id. Nunc in sem augue. In volutpat turpis eget nunc volutpat fermentum. Donec est mauris, venenatis ac sapien sit amet, suscipit porttitor ex. Nullam pulvinar a nisl at molestie.</string>
+</resources>
